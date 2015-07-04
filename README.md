@@ -3,6 +3,7 @@ Project Pateō is an exploration to see if you can deliver better legislation th
 
 ## Features
 
+* provides a simple framework for moving legislation from Projet Pateō to Congress
 * add, edit and comment on legislation (or bills) using Github
 * view, filter and sort bills (including actual bills already in Congress)
 * vote on bills
