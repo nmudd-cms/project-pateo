@@ -11,6 +11,6 @@ Project Pateō is an exploration to see if you can deliver better legislation th
 
 * "The Wisdom of Crowds" by James Surowiecki
 * "Here Comes Everybody: The Power of Organizing without Organizations" by Clay Shirkey
-* "The Wealth of Networks: How Social Production Transforms Markets and Freedom" by Yochai Benkler
+* "The Wealth of Networks: How Social Production Transforms Markets & Freedom" by Yochai Benkler
 * Code for America
 * OpenCongress.org
